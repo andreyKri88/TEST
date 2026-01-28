@@ -1,0 +1,6 @@
+Ключи лицензий:
+9a0cfc75-ee6c-4d6d-91c9-34b24608dd4d (preview)
+5a5cedc2-da34-4af6-8e0b-267fdc7c1410 (prod)
+1ae97db2-5f43-477d-b3c6-a260ff236ecc (test)
+Новая информация
+4444
